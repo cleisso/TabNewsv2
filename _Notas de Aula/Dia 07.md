@@ -4,8 +4,9 @@ Curso do Filipe Deschamps
 ## Dia 07 - Colocando o projeto no ar
 
 ### Índice
-- [Conhecendo a plataforma](#conhecendo-a-plataforma)
-- [Como estão organizadas as aulas](#como-estão-organizadas-as-aulas)
+- [Client e Server](#client-e-server)
+- [Hospedagem e Deploy](#hospedagem-e-deploy)
+- [Fazendo novos Deploys](#hospedagem-e-deploy)
 
 ### Client e Server
 
@@ -53,3 +54,19 @@ Novas estratégias de automatização foi criadas, e hoje as atualizações ocor
 - Hospedar: oferecer ou receber abrigo;
 - Deploy: o ato de transferir os arquivos locais para um lugar específico.
 
+### Fazendo novos Deploys
+
+Para cada novo commit e push realizado, o GitHub notificará o Vercel, que automaticamente realizará **build** da nova versão da aplicação.
+
+![Deploy](Imagens/15.%20Deploy.PNG)
+
+E nesse momento, a URL original Vercel apontará para o último Build, entretando, a Vercel manterá os últimos Builds caso haja a necessidade de migrar entre um e outro.
+
+- Último build:<br>
+![Último build](Imagens/16.%20Ultimo%20Build.PNG)
+
+- Build anterior:<br>
+![Build anterior](Imagens/17.%20Build%20Anterior.PNG)
+
+#### Glosário
+- Principle of Least Privilege: autorizando uma aplicação acesso apenas aos arquivos ou recursos necessários (ao invés de permitir livre acesso a todos os arquivos e recursos).

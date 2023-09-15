@@ -22,6 +22,11 @@ Lista de comandos que serão abordados nesta aula:
 Sempre que for necessário carregar as alterações locais para um repositório remoto (como o **GitHub**), utilizar o comando `git push`. <br>
 Sempre que for necessário carregar o repositório local com as modificações realizadas em um repositório remoto, utilizar o comando `git pull`.
 
+**Obs 1:** Antes de realizar o primeiro `git push`, deve-se antes realizar a configuração para o Git saber onde deverá ser copiado o repositório local. Para o repositório local apontar para o repositório remoto, utilizar o comando: `git remote add origin <Site do repositório>`.
+
+**Obs 2:** Ao realizar o primeiro `git push`, deve-se informar em qual **branch** será feito o upload. Utilizar o comando: `git push origin <branch>`.<br>
+Quando é inicializado um repositório Git local, o nome da **branch** é **master**, porém, o nome da **branch** no GitHub é **main**. Ao realizar o `git push`, será produzido uma nova **branch** se os nomes entre o repositório local e o Github forem diferentes. Uma alternativa é renomear a **branch** local de **main** utilizando o comando: `git branch -m "Nome do repositório"`.<br>
+
 ![Git Push e Git Pull](Imagens/04.%20Git%20Push%20e%20Git%20Pull.png)
 
 ### Fazendo commits de forma mais rápida

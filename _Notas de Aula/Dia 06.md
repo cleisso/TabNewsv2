@@ -44,7 +44,9 @@ Para contornar essa situação, devemos utilizar o comando `git push -f` ou `git
 Se novos commits forem realizados, o comando `git push` não apresentará problemas desde que não seja utilizado o comando `git commit --amend`, senão, deverá realizar um `git push -f` para forçar o upload das atualizações ao GitHub.
 
 Erro ao executar um `git push`:
+
 ![Erro ao executar um git push](Imagens/06.%20Erro%20no%20Git%20Push.PNG)
 
 Solução ao utilizar o comando `git push -f`:
+
 ![Solução ao utilizar um git push -f](Imagens/07.%20Solução%20no%20Git%20Push.PNG)

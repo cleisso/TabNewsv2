@@ -1,0 +1,13 @@
+# Ignorando as pastas
+_Notas de Aula/
+_Softwares/
+.next/
+node_modules/
+
+# Ignorando os demais arquivos
+.prettierignore
+.prettierrc
+.nvmrc
+package-lock.json
+package.json
+README.md

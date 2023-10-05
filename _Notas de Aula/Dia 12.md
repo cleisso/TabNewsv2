@@ -4,6 +4,7 @@ Curso do Filipe Deschamps
 ## Dia 12 - DNS (Domain Name System) - Prática
 
 ### Índice
+
 - [Introdução](#introdução)
 - [Registrar um Próprio Domínio](#registrar-um-próprio-domínio)
 - [Configurar o Servidor de DNS (ou Servidor Autoritativo)](#configurar-o-servidor-de-dns-ou-servidor-autoritativo)

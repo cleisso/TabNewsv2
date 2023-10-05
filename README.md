@@ -12,3 +12,8 @@ Curso do Filipe Deschamps
 - [Dia 08 - Expectativas sobre os próximos capítulos do curso](_Notas%20de%20Aula/Dia%2008.md#dia-08---expectativas-sobre-os-próximos-capítulos-do-curso)
 - [Dia 09 - Planejamento do TabNews](_Notas%20de%20Aula/Dia%2009.md#dia-09---planejamento-do-tabnews)
 - [Dia 10 - Trabalhando as soft skills e configurando o Linter](_Notas%20de%20Aula/Dia%2010.md#dia-10---trabalhando-as-soft-skills-e-configurando-o-linter)
+- [Dia 11 - DNS (Domain Name System) - Teoria](_Notas%20de%20Aula/Dia%2011.md#dia-11---dns-domain-name-system---teoria)
+- [Dia 12 - DNS (Domain Name System) - Prática](_Notas%20de%20Aula/Dia%2012.md#dia-12---dns-domain-name-system---prática)
+- [Dia 13 - Fim da Milestone 0 e Indisponibilidade de Serviços da Internet](_Notas%20de%20Aula/Dia%2013.md#dia-13---fim-da-milestone-0-e-indisponibilidade-de-serviços-da-internet)
+- [Dia 14 - Inauguração da Milestone 1 - Fundação](_Notas%20de%20Aula/Dia%2014.md#dia-14---inauguração-da-milestone-1---fundação)
+- [Dia 15 - Testes Automatizados](_Notas%20de%20Aula/Dia%2015.md#dia-15---testes-automatizados)

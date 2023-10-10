@@ -99,7 +99,7 @@ Arquitetura de pastas adotada no projeto:
 
 - MVC (Model-View-Controller): padrão de arquitetura de software é amplamente utilizado no desenvolvimento de aplicativos e sistemas de software. O objetivo deste padrão é separar as diferentes preocupações do aplicativo em componentes distintos, tornando o código mais organizado, reutilizável e fácil de manter. Ele é mais comum de ser encontrado em tecnologias de desenvolvimento Web.<br>
 
-	1. Model: lida com a maniupulação e gerenciamento dos dados, bem como a lógica por trás das operações (como se comunicar com o banco de dados, recuperar informações, manipular dados que serão exibidos, etc.);
+	1. Model: lida com a manipulação e gerenciamento dos dados, bem como a lógica por trás das operações (como se comunicar com o banco de dados, recuperar informações, manipular dados que serão exibidos, etc.);
 
 	2. View: responsável apenas pela apresentação da interteface do usuário e a interação com ele;
 

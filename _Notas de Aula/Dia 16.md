@@ -1,9 +1,15 @@
 # TabNews
 Curso do Filipe Deschamps
 
-## Dia 15 - Testes de Integração e Protocolo HTTP
+## Dia 16 - Testes de Integração e Protocolo HTTP
 
 ### Índice
+
+- [Introdução](#introdução)
+- [A maior briga no universo dos Testes Automatizados](#a-maior-briga-no-universo-dos-testes-automatizados)
+- [Encostando a mão no Protocolo HTTP](#encostando-a-mão-no-protocolo-http)
+- [Não é Magia! (É protocolo)](#não-é-magia-é-protocolo)
+- [Versionamento de API e Endpoint "/status"](#versionamento-de-api-e-endpoint-status)
 
 ### Introdução
 

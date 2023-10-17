@@ -17,3 +17,5 @@ Curso do Filipe Deschamps
 - [Dia 13 - Fim da Milestone 0 e Indisponibilidade de Serviços da Internet](_Notas%20de%20Aula/Dia%2013.md#dia-13---fim-da-milestone-0-e-indisponibilidade-de-serviços-da-internet)
 - [Dia 14 - Inauguração da Milestone 1 - Fundação](_Notas%20de%20Aula/Dia%2014.md#dia-14---inauguração-da-milestone-1---fundação)
 - [Dia 15 - Testes Automatizados](_Notas%20de%20Aula/Dia%2015.md#dia-15---testes-automatizados)
+- [Dia 16 - Testes de Integração e Protocolo HTTP](_Notas%20de%20Aula/Dia%2016.md#dia-16---testes-de-integração-e-protocolo-http)
+- [Dia 17 - Banco de Dados (PostgreSQL) e Docker](_Notas%20de%20Aula/Dia%2017.md#dia-17---banco-de-dados-postgresql-e-docker)
